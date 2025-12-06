@@ -4,3 +4,4 @@ tensorboard
 addict
 scikit-learn
 pathspec
+werkzeug>=3.1.4 # not directly required, pinned by Snyk to avoid a vulnerability
